@@ -1,0 +1,11 @@
+{
+  "name": "@markjaquith/tinacms-modules",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@tinacms/cli": "^0.61.26",
+    "tinacms": "^0.69.20"
+  },
+  "devDependencies": {}
+}
